@@ -1,6 +1,6 @@
-# flutter_covid10_ui
+# flutter_covid19_ui
 
-flutter_covid10_ui
+flutter_covid19_ui
 
 ## Getting Started
 
